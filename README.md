@@ -1,12 +1,12 @@
 ### Patches
-scrollback with (shift + Mousewheel)\
+scrollback with (Mousewheel)\
 font2\
 Boxdraw\
 alpha\
 clipboard
 
 ```
-git clone https://github.com/Ollilauch/st.git
+git clone https://github.com/AzuraAce/st.git
 cd st
 sudo make clean install
 ```
