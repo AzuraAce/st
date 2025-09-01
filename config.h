@@ -5,10 +5,10 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrainsMono-Medium:size=12:antialias=true:autohint=true";
+static char *font = "SF Mono:size=11:antialias=true:autohint=true";
 static char *font2[] = { 
-    "DejaVuSans:pixelsize=30:antialias=true:autohint=true",
-    "HackNerdFontMono-Regular:pixelsize=30:antialias=true:autohint=true", // Braille Support (⣿)
+    "DejaVuSans:size=12:antialias=true:autohint=true",
+    "HackNerdFontMono-Regular:size=14:antialias=true:autohint=true", // Braille Support (⣿)
 };
 static int borderpx = 2;
 
